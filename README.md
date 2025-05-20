@@ -51,13 +51,11 @@ cd portfolio-website
 # Cài đặt dependencies
 npm install
 
-# Tạo file .env.local và thêm các biến môi trường
-# NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-# NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-# SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_key
+Tạo file .env.local và thêm các biến môi trường
 
 # Chạy development server
 npm run dev
+
 \`\`\`
 
 Mở [http://localhost:3000](http://localhost:3000) để xem trang web.
