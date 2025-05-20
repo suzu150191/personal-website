@@ -120,7 +120,7 @@ portfolio-website/
 - Website: [trieu.ai.vn](https://trieu.ai.vn)
 - TikTok: [@ai_insight_](https://tiktok.com/@ai_insight_)
 - LinkedIn: [Triều Nguyễn](https://www.linkedin.com/in/trieu-nguyen-1478ab155/)
-- Email: nphtrieu@gmail.com
+- Email: npht.96@gmail.com
 
 ## 📄 Giấy Phép | License
 
