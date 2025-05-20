@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     siteName: "Triều Nguyễn",
     images: [
       {
-        url: "https://trieu.ai.vn/og-image.png",
+        url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/my-avatar-Ovei4qlNIl2JZWvhyQEPATy2y63enO.png", // Cập nhật URL hình ảnh OG
         width: 1200,
         height: 630,
         alt: "Triều Nguyễn - AI Researcher & Blockchain Developer",
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     title: "Triều Nguyễn | AI Researcher & Blockchain Developer",
     description: "Chuyên gia AI, Blockchain và Metaverse. Người sáng lập AI Insight và đồng sáng lập My Meta Farm.",
     creator: "@LupinV_Research",
-    images: ["https://trieu.ai.vn/og-image.png"],
+    images: ["https://hebbkx1anhila5yf.public.blob.vercel-storage.com/my-avatar-Ovei4qlNIl2JZWvhyQEPATy2y63enO.png"], // Cập nhật URL hình ảnh Twitter
   },
   robots: {
     index: true,

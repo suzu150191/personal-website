@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react"
 import Link from "next/link"
+import Image from "next/image"
 import { Button } from "@/components/ui/button"
 import { Menu, X, ChevronUp } from "lucide-react"
 import { useLanguage } from "@/contexts/language-context"
@@ -72,8 +73,8 @@ export function Navbar() {
         <div className="container px-4 md:px-6">
           <div className="flex items-center justify-between">
             <Link href="/" className="flex items-center gap-2">
-              <div className="w-8 h-8 rounded-full bg-gradient-to-r from-teal-500 to-emerald-500 flex items-center justify-center">
-                <span className="font-bold text-white text-sm">TN</span>
+              <div className="w-8 h-8 rounded-full overflow-hidden">
+                <Image src="/favicon.ico" alt="Triều Nguyễn" width={32} height={32} />
               </div>
               <span className="font-bold text-white">Triều Nguyễn</span>
             </Link>

@@ -110,7 +110,7 @@ export default function Home() {
       description:
         "Dự án metaverse kết hợp game Web3 hướng đến việc tạo ra một không gian 'nông trại' ảo trong thế giới metaverse. Dự án may mắn được giới thiệu tại Sự kiện Game Blockchain Tokyo năm 2022.",
       image: "/my-meta-farm-3d.png",
-      link: "https://x.com/mymetafarm",
+      link: "https://www.youtube.com/watch?v=4_t0ahEJR6A",
       category: "Metaverse",
       stats: [
         { label: "Awards", value: "Tokyo 2022" },
@@ -123,7 +123,7 @@ export default function Home() {
       title: "AIID Alliance",
       description:
         "Sáng kiến liên minh với mong muốn hỗ trợ phát triển kỹ năng số cho giới trẻ Việt, kết nối 17 đơn vị gồm các trường đại học và doanh nghiệp công nghệ. AIID cố gắng đóng góp vào việc đào tạo AI và kỹ năng số.",
-      image: "/aiid-digital-skills.png",
+      image: "/aiid-detailed.png",
       link: "https://www.aiid.com.vn/",
       category: "Education",
       stats: [
@@ -166,7 +166,7 @@ export default function Home() {
       subtitle: "Metaverse Kết Hợp Game Web3",
       description:
         "My Meta Farm là dự án metaverse kết hợp game Web3 mà Triều có cơ hội được tham gia phát triển cùng đội ngũ tài năng. Dự án hướng đến việc tạo ra một không gian 'nông trại' ảo trong thế giới metaverse, nơi người dùng có thể tương tác và thể hiện sự sáng tạo trong môi trường 3D.",
-      image: "/my-meta-farm-3d.png",
+      image: "/my-meta-farm-detailed.png",
       color: "from-purple-500 to-indigo-500",
       stats: [
         { label: "Awards", value: "Tokyo 2022" },
@@ -179,7 +179,7 @@ export default function Home() {
         "Được một số báo đài nhắc đến như một trong những dự án metaverse của Việt Nam",
         "Tìm hiểu và ứng dụng công nghệ blockchain và NFT vào trải nghiệm game",
       ],
-      link: "https://x.com/mymetafarm",
+      link: "https://www.youtube.com/watch?v=4_t0ahEJR6A",
       linkText: "Khám phá My Meta Farm",
       tags: ["Metaverse", "Blockchain", "Web3", "Gaming"],
     },
@@ -189,7 +189,7 @@ export default function Home() {
       subtitle: "Liên Minh Phát Triển Kỹ Năng Số",
       description:
         "AIID là sáng kiến liên minh mà Triều may mắn được tham gia cùng nhiều đối tác nhằm hỗ trợ phát triển kỹ năng số cho giới trẻ Việt. AIID là nơi kết nối 17 đơn vị bao gồm các trường đại học và doanh nghiệp công nghệ trong lĩnh vực AI tại Việt Nam.",
-      image: "/aiid-digital-skills.png",
+      image: "/aiid-detailed.png",
       color: "from-blue-500 to-cyan-500",
       stats: [
         { label: "Partners", value: "17" },
@@ -504,7 +504,7 @@ export default function Home() {
               <CardSpotlight className="w-full">
                 <div className="relative w-full aspect-video rounded-xl overflow-hidden">
                   <Image
-                    src="/trieu-speaking-event.png"
+                    src="/tech-entrepreneur-presentation.png"
                     alt="Triều Nguyễn diễn thuyết tại sự kiện công nghệ"
                     width={1280}
                     height={720}
@@ -540,9 +540,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      {/* Các phần còn lại giữ nguyên */}
-      {/* ... */}
 
       {/* Expertise Section with Hover Cards */}
       <section id="expertise" className="py-20 relative overflow-hidden">
@@ -756,6 +753,7 @@ export default function Home() {
                             alt={testimonial.author}
                             fill
                             className="object-cover"
+                            sizes="48px"
                           />
                         </div>
                         <div>
@@ -835,8 +833,8 @@ export default function Home() {
                     <div className="space-y-1">
                       <h4 className="text-lg font-semibold text-white">Email</h4>
                       <p className="text-gray-400">
-                        <Link href="mailto:nphtrieu@gmail.com" className="hover:text-teal-300 transition-colors">
-                          nphtrieu@gmail.com
+                        <Link href="mailto:npht.96@gmail.com" className="hover:text-teal-300 transition-colors">
+                          npht.96@gmail.com
                         </Link>
                       </p>
                     </div>
@@ -847,8 +845,8 @@ export default function Home() {
                     <div className="space-y-1">
                       <h4 className="text-lg font-semibold text-white">Điện thoại</h4>
                       <p className="text-gray-400">
-                        <Link href="tel:+84909888888" className="hover:text-purple-300 transition-colors">
-                          +84 909 888 888
+                        <Link href="tel:+84932763090" className="hover:text-purple-300 transition-colors">
+                          +84 932 763 090
                         </Link>
                       </p>
                     </div>

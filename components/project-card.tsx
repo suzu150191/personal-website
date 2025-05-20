@@ -49,7 +49,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
             src={project.image || "/placeholder.svg"}
             alt={project.title}
             fill
-            className={cn("object-cover transition-transform duration-500", isHovered ? "scale-110" : "scale-100")}
+            className={cn("transition-transform duration-500", isHovered ? "scale-110" : "scale-100", "object-cover")}
             sizes={isMobile ? "100vw" : "33vw"}
             quality={isMobile ? 75 : 90}
           />
