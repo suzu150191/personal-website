@@ -296,6 +296,7 @@ export default function Home() {
               fill
               className="object-cover"
               priority
+              sizes="(max-width: 768px) 128px, 160px"
             />
             <div className="absolute inset-0 bg-gradient-to-tr from-teal-500/20 to-transparent mix-blend-overlay"></div>
           </motion.div>
