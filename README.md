@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/trieu-nguyen/v0-trieu-ai-website-upgrade">
-    <img src="https://img.shields.io/github/last-commit/trieu-nguyen/v0-trieu-ai-website-upgrade" alt="GitHub last commit" />
+  <a href="https://github.com/trieunguyen96/v0-trieu-ai-website-upgrade">
+    <img src="https://img.shields.io/github/last-commit/trieunguyen96/v0-trieu-ai-website-upgrade" alt="GitHub last commit" />
   </a>
   <a href="https://trieu.ai.vn">
     <img src="https://img.shields.io/website?url=https%3A%2F%2Ftrieu.ai.vn" alt="Website" />
   </a>
-  <a href="https://github.com/trieu-nguyen/v0-trieu-ai-website-upgrade/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/trieu-nguyen/v0-trieu-ai-website-upgrade" alt="GitHub license" />
+  <a href="https://github.com/trieunguyen96/v0-trieu-ai-website-upgrade/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/trieunguyen96/v0-trieu-ai-website-upgrade" alt="GitHub license" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@ Professional portfolio website for Triều Nguyễn – AI Researcher, Blockchai
 
 ```bash
 # Clone repository
-git clone https://github.com/trieu-nguyen/v0-trieu-ai-website-upgrade.git
+git clone https://github.com/trieunguyen96/v0-trieu-ai-website-upgrade.git
 
 # Di chuyển vào thư mục dự án
 cd portfolio-website
