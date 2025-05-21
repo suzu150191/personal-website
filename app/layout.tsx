@@ -5,7 +5,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 import { Toaster } from "@/components/ui/toaster"
 import { ToastProvider } from "@/components/ui/toast-context"
 import { LanguageProvider } from "@/contexts/language-context"
+import Analytics from "@/components/analytics"
 import type { Metadata } from "next"
+import { Suspense } from "react"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -99,11 +101,14 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
           <LanguageProvider>
             <ToastProvider>
-              {children}
-              <Toaster />
+              <Suspense>
+                {children}
+                <Toaster />
+              </Suspense>
             </ToastProvider>
           </LanguageProvider>
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   )
