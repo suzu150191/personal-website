@@ -18,7 +18,7 @@ import {
   Linkedin,
   Twitter,
   Instagram,
-  TwitterIcon as TikTok,
+  Tiktok,
 } from "lucide-react"
 import Link from "next/link"
 
@@ -128,7 +128,7 @@ export default function ContactPage() {
                       href="https://tiktok.com/@ai_insight_"
                       className="w-10 h-10 rounded-full bg-teal-500/10 flex items-center justify-center text-teal-400 hover:bg-teal-500/20 transition-colors"
                     >
-                      <TikTok className="h-5 w-5" />
+                      <Tiktok className="h-5 w-5" />
                       <span className="sr-only">TikTok</span>
                     </Link>
                     <Link
