@@ -12,7 +12,7 @@ import {
   Twitter,
   Linkedin,
   Facebook,
-  TwitterIcon as TikTok,
+  Tiktok,
   ChevronRight,
   ArrowRight,
   Brain,
@@ -391,7 +391,7 @@ export default function Home() {
               rel="noopener noreferrer"
               aria-label="TikTok của Triều Nguyễn"
             >
-              <TikTok className="h-6 w-6" />
+              <Tiktok className="h-6 w-6" />
               <span className="sr-only">TikTok</span>
             </Link>
             <Link
