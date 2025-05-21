@@ -101,14 +101,14 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
           <LanguageProvider>
             <ToastProvider>
-              <Suspense>
-                {children}
-                <Toaster />
-              </Suspense>
+              {children}
+              <Toaster />
             </ToastProvider>
           </LanguageProvider>
         </ThemeProvider>
-        <Analytics />
+        <Suspense fallback={null}>
+          <Analytics />
+        </Suspense>
       </body>
     </html>
   )

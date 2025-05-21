@@ -2,22 +2,21 @@
 
 import { useEffect } from "react"
 import Script from "next/script"
-import { usePathname, useSearchParams } from "next/navigation"
+import { usePathname } from "next/navigation"
 
 export const GA_MEASUREMENT_ID = "G-TX2FPWMBZP" // Thay thế bằng ID Google Analytics của bạn
 
 export default function Analytics() {
   const pathname = usePathname()
-  const searchParams = useSearchParams()
 
   useEffect(() => {
     if (pathname && window.gtag) {
       // Gửi pageview khi route thay đổi
       window.gtag("config", GA_MEASUREMENT_ID, {
-        page_path: pathname + searchParams.toString(),
+        page_path: pathname,
       })
     }
-  }, [pathname, searchParams])
+  }, [pathname])
 
   return (
     <>
