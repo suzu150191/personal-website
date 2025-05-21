@@ -68,8 +68,8 @@ export async function POST(request: Request) {
       })
 
       await transporter.sendMail({
-        from: process.env.EMAIL_FROM || "website@trieu.ai.vn",
-        to: "npht.96@gmail.com",
+        from: process.env.EMAIL_FROM || "website@hieu.ai.vn",
+        to: "hi@example.com",
         subject: `[Website] Liên hệ mới từ ${name}`,
         html: `
           <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">

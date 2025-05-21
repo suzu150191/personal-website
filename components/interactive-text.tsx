@@ -38,7 +38,7 @@ export default function InteractiveText({
     const ctx = canvas.getContext("2d")
     if (!ctx) return
 
-    // Create Triều Nguyễn text image data
+    // Create Hiếu Nguyễn text image data
     function createTextImage() {
       if (!ctx || !canvas) return null
 
@@ -51,14 +51,14 @@ export default function InteractiveText({
       tempCanvas.height = canvas.height
 
       // Điều chỉnh font size và vị trí
-      const fontSize = isMobile ? 60 : 100 // Tăng font size để chữ Triều Nguyễn to hơn
+      const fontSize = isMobile ? 60 : 100 // Tăng font size để chữ Hiếu Nguyễn to hơn
       tempCtx.fillStyle = "white"
       tempCtx.font = `bold ${fontSize}px 'Inter', sans-serif`
       tempCtx.textAlign = "center"
       tempCtx.textBaseline = "middle"
 
       // Đo kích thước thực tế của text
-      const textMetrics = tempCtx.measureText("Triều Nguyễn")
+      const textMetrics = tempCtx.measureText("Hiếu Nguyễn")
       const textWidth = textMetrics.width
 
       // Đảm bảo text vừa với canvas
@@ -80,7 +80,7 @@ export default function InteractiveText({
       gradient.addColorStop(1, "#34d399") // Light emerald
 
       tempCtx.fillStyle = gradient
-      tempCtx.fillText("Triều Nguyễn", tempCanvas.width / 2, tempCanvas.height / 2)
+      tempCtx.fillText("Hiếu Nguyễn", tempCanvas.width / 2, tempCanvas.height / 2)
 
       return tempCtx.getImageData(0, 0, tempCanvas.width, tempCanvas.height)
     }

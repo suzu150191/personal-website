@@ -74,9 +74,9 @@ export function Navbar() {
           <div className="flex items-center justify-between">
             <Link href="/" className="flex items-center gap-2">
               <div className="w-8 h-8 rounded-full overflow-hidden">
-                <Image src="/favicon.ico" alt="Triều Nguyễn" width={32} height={32} />
+                <Image src="/favicon.ico" alt="Hiếu Nguyễn" width={32} height={32} />
               </div>
-              <span className="font-bold text-white">Triều Nguyễn</span>
+              <span className="font-bold text-white">Hiếu Nguyễn</span>
             </Link>
 
             <nav className="hidden md:flex items-center gap-6">

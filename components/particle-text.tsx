@@ -10,7 +10,7 @@ interface ParticleTextProps {
 
 export default function ParticleText({
   className = "",
-  text = "Triều Nguyễn",
+  text = "Hiếu Nguyễn",
   color = "#14b8a6", // Teal color by default
 }: ParticleTextProps) {
   const canvasRef = useRef<HTMLCanvasElement>(null)

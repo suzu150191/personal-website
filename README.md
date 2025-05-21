@@ -1,18 +1,18 @@
-# Triều Nguyễn - AI Researcher & Blockchain Developer Portfolio
+# Hiếu Nguyễn - Professional Investor & AI Entrepreneur Portfolio
 
 <p align="center">
-  <img src="public/og-image.png" alt="Triều Nguyễn Portfolio" width="600" />
+  <img src="public/og-image.png" alt="Hiếu Nguyễn Portfolio" width="600" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/trieunguyen96/v0-trieu-ai-website-upgrade">
-    <img src="https://img.shields.io/github/last-commit/trieunguyen96/v0-trieu-ai-website-upgrade" alt="GitHub last commit" />
+  <a href="https://github.com/hieunguyen/personal-website">
+    <img src="https://img.shields.io/github/last-commit/hieunguyen/personal-website" alt="GitHub last commit" />
   </a>
-  <a href="https://trieu.ai.vn">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Ftrieu.ai.vn" alt="Website" />
+  <a href="https://hieu.ai.vn">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fhieu.ai.vn" alt="Website" />
   </a>
-  <a href="https://github.com/trieunguyen96/v0-trieu-ai-website-upgrade/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/trieunguyen96/v0-trieu-ai-website-upgrade" alt="GitHub license" />
+  <a href="https://github.com/hieunguyen/personal-website/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/hieunguyen/personal-website" alt="GitHub license" />
   </a>
 </p>
 
@@ -22,11 +22,11 @@
 
 **\[Tiếng Việt]**
 
-Website portfolio chuyên nghiệp của Triều Nguyễn - chuyên gia AI, Blockchain và Metaverse. Trang web được xây dựng với Next.js, Tailwind CSS và Framer Motion, đem lại trải nghiệm mượt mà, hiệu ứng hiện đại, thiết kế responsive. Website giới thiệu các dự án nổi bật như **AI Insight**, **My Meta Farm**, **AIID** cùng chuyên môn và thông tin liên hệ.
+Website portfolio chuyên nghiệp của Hiếu Nguyễn - Nhà đầu tư chuyên nghiệp và doanh nhân AI. Trang web được xây dựng với Next.js, Tailwind CSS và Framer Motion, đem lại trải nghiệm mượt mà, hiệu ứng hiện đại, thiết kế responsive. Website giới thiệu các dự án nổi bật như **AI Insight**, **My Meta Farm**, **AIID** cùng chuyên môn và thông tin liên hệ.
 
 **\[English]**
 
-Professional portfolio website for Triều Nguyễn – AI Researcher, Blockchain Developer, and Metaverse Pioneer. Built with Next.js, Tailwind CSS, and Framer Motion for a smooth, interactive, responsive experience. Featuring highlighted projects like **AI Insight**, **My Meta Farm**, and **AIID**, plus expertise and contact info.
+Professional portfolio website for Nguyễn Trung Hiếu – Professional Investor and AI Entrepreneur. Built with Next.js, Tailwind CSS, and Framer Motion for a smooth, interactive, responsive experience. Featuring highlighted projects like **AI Insight**, **My Meta Farm**, and **AIID**, plus expertise and contact info.
 
 ---
 
@@ -59,7 +59,7 @@ Professional portfolio website for Triều Nguyễn – AI Researcher, Blockchai
 
 ```bash
 # Clone repository
-git clone https://github.com/trieunguyen96/v0-trieu-ai-website-upgrade.git
+git clone https://github.com/hieunguyen/personal-website.git
 
 # Di chuyển vào thư mục dự án
 cd portfolio-website
@@ -137,12 +137,12 @@ portfolio-website/
 
 ## 👨‍💻 Tác Giả | Author
 
-**Triều Nguyễn**
+**Hiếu Nguyễn**
 
-* Website: [trieu.ai.vn](https://trieu.ai.vn)
+* Website: [hieu.ai.vn](https://hieu.ai.vn)
 * TikTok: [@ai\_insight\_](https://tiktok.com/@ai_insight_)
-* LinkedIn: [Triều Nguyễn](https://www.linkedin.com/in/trieu-nguyen-1478ab155/)
-* Email: [nphtrieu@gmail.com](mailto:nphtrieu@gmail.com)
+* LinkedIn: [Hiếu Nguyễn](https://linkedin.com/in/hieunguyen)
+* Email: [hi@example.com](mailto:hi@example.com)
 
 ---
 
@@ -153,5 +153,5 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  Developed with ❤️ by Triều Nguyễn
+  Developed with ❤️ by Hiếu Nguyễn
 </p>

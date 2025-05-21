@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['v0.blob.com', 'trieu.ai.vn'],
+    domains: ['v0.blob.com', 'hieu.ai.vn'],
     remotePatterns: [
       {
         protocol: 'https',

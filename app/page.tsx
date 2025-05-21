@@ -142,7 +142,7 @@ export default function Home() {
       title: "AI Insight",
       subtitle: "Cộng Đồng AI Thực Chiến",
       description:
-        "AI Insight là nền tảng cộng đồng và kênh nội dung về 'AI thực chiến' mà Triều may mắn được tham gia phát triển. Với mong muốn chia sẻ kiến thức trí tuệ nhân tạo một cách dễ hiểu và thực tiễn, AI Insight cố gắng kết nối những người yêu thích công nghệ và cùng nhau tìm hiểu cách ứng dụng AI vào đời sống hàng ngày.",
+        "AI Insight là nền tảng cộng đồng và kênh nội dung về 'AI thực chiến' mà Hiếu may mắn được tham gia phát triển. Với mong muốn chia sẻ kiến thức trí tuệ nhân tạo một cách dễ hiểu và thực tiễn, AI Insight cố gắng kết nối những người yêu thích công nghệ và cùng nhau tìm hiểu cách ứng dụng AI vào đời sống hàng ngày.",
       image: "/ai-insight-platform.png",
       color: "from-teal-500 to-emerald-500",
       stats: [
@@ -165,7 +165,7 @@ export default function Home() {
       title: "My Meta Farm",
       subtitle: "Metaverse Kết Hợp Game Web3",
       description:
-        "My Meta Farm là dự án metaverse kết hợp game Web3 mà Triều có cơ hội được tham gia phát triển cùng đội ngũ tài năng. Dự án hướng đến việc tạo ra một không gian 'nông trại' ảo trong thế giới metaverse, nơi người dùng có thể tương tác và thể hiện sự sáng tạo trong môi trường 3D.",
+        "My Meta Farm là dự án metaverse kết hợp game Web3 mà Hiếu có cơ hội được tham gia phát triển cùng đội ngũ tài năng. Dự án hướng đến việc tạo ra một không gian 'nông trại' ảo trong thế giới metaverse, nơi người dùng có thể tương tác và thể hiện sự sáng tạo trong môi trường 3D.",
       image: "/my-meta-farm-detailed.png",
       color: "from-purple-500 to-indigo-500",
       stats: [
@@ -188,7 +188,7 @@ export default function Home() {
       title: "AIID Alliance",
       subtitle: "Liên Minh Phát Triển Kỹ Năng Số",
       description:
-        "AIID là sáng kiến liên minh mà Triều may mắn được tham gia cùng nhiều đối tác nhằm hỗ trợ phát triển kỹ năng số cho giới trẻ Việt. AIID là nơi kết nối 17 đơn vị bao gồm các trường đại học và doanh nghiệp công nghệ trong lĩnh vực AI tại Việt Nam.",
+        "AIID là sáng kiến liên minh mà Hiếu may mắn được tham gia cùng nhiều đối tác nhằm hỗ trợ phát triển kỹ năng số cho giới trẻ Việt. AIID là nơi kết nối 17 đơn vị bao gồm các trường đại học và doanh nghiệp công nghệ trong lĩnh vực AI tại Việt Nam.",
       image: "/aiid-detailed.png",
       color: "from-blue-500 to-cyan-500",
       stats: [
@@ -212,7 +212,7 @@ export default function Home() {
   const testimonials = [
     {
       content:
-        "Là Giám đốc Công nghệ của JAMstack Vietnam, tôi đã thấy những đóng góp của Triều Nguyễn trong lĩnh vực Trí tuệ nhân tạo vô cùng quý giá. Khả năng truyền đạt các khái niệm phức tạp một cách rõ ràng và thực tế của anh ấy đã mang lại cho cộng đồng cái nhìn có giá trị trực tiếp đối với công việc của họ. Cùng với sự tận tâm chân thành trong việc cung cấp lời khuyên hữu ích, những phẩm chất này đã tạo nên danh tiếng tin cậy cho anh ấy trong cộng đồng Trí tuệ nhân tạo.",
+        "Là Giám đốc Công nghệ của JAMstack Vietnam, tôi đã thấy những đóng góp của Hiếu Nguyễn trong lĩnh vực Trí tuệ nhân tạo vô cùng quý giá. Khả năng truyền đạt các khái niệm phức tạp một cách rõ ràng và thực tế của anh ấy đã mang lại cho cộng đồng cái nhìn có giá trị trực tiếp đối với công việc của họ. Cùng với sự tận tâm chân thành trong việc cung cấp lời khuyên hữu ích, những phẩm chất này đã tạo nên danh tiếng tin cậy cho anh ấy trong cộng đồng Trí tuệ nhân tạo.",
       author: "Kha Phan",
       role: "CTO tại JAMstack Vietnam",
       avatar: "/avatar-1.png",
@@ -220,7 +220,7 @@ export default function Home() {
     },
     {
       content:
-        "Hợp tác với Triều trong dự án đào tạo về GenAI, tôi bị ấn tượng bởi tác phong làm việc chuyên nghiệp và thân thiện của anh. Triều không chỉ sở hữu nhiều kiến thức về GenAI mà còn thể hiện sự tham vọng trong việc ứng dụng công nghệ này để phục vụ cộng đồng. Anh luôn tìm kiếm cách thức mới để GenAI giải quyết các vấn đề thực tế, mang lại lợi ích thiết thực cho mọi người.",
+        "Hợp tác với Hiếu trong dự án đào tạo về GenAI, tôi bị ấn tượng bởi tác phong làm việc chuyên nghiệp và thân thiện của anh. Hiếu không chỉ sở hữu nhiều kiến thức về GenAI mà còn thể hiện sự tham vọng trong việc ứng dụng công nghệ này để phục vụ cộng đồng. Anh luôn tìm kiếm cách thức mới để GenAI giải quyết các vấn đề thực tế, mang lại lợi ích thiết thực cho mọi người.",
       author: "Anh Thi Pham",
       role: "Giám đốc tại Công ty GenAI",
       avatar: "/avatar-2.png",
@@ -228,7 +228,7 @@ export default function Home() {
     },
     {
       content:
-        "Tìm kiếm một chuyên gia AI vừa am hiểu, vừa có tư duy vận dụng AI hiệu quả, vừa truyền cảm hứng là điều không dễ dàng. Đó cũng là lý do Triều Nguyễn là một trong những Giảng viên AI hàng đầu tại Edtronaut, nền tảng giáo dục công nghệ với AI, với một số chương trình hàng đầu như AI in Action - Marketing series, Content, Tuyển dụng ở nhiều lĩnh vực khác nhau (Bán lẻ, eCom, Bảo hiểm,...). Là Founder CEO của Edtronaut, tôi luôn tìm kiếm những giảng viên tài năng và tâm huyết cho từng lãnh vực và Triều chính là mảnh ghép hoàn hảo cho lĩnh vực đào tạo AI vốn mới phát triển gần đây và liên tục có sự thay đổi.",
+        "Tìm kiếm một chuyên gia AI vừa am hiểu, vừa có tư duy vận dụng AI hiệu quả, vừa truyền cảm hứng là điều không dễ dàng. Đó cũng là lý do Hiếu Nguyễn là một trong những Giảng viên AI hàng đầu tại Edtronaut, nền tảng giáo dục công nghệ với AI, với một số chương trình hàng đầu như AI in Action - Marketing series, Content, Tuyển dụng ở nhiều lĩnh vực khác nhau (Bán lẻ, eCom, Bảo hiểm,...). Là Founder CEO của Edtronaut, tôi luôn tìm kiếm những giảng viên tài năng và tâm huyết cho từng lãnh vực và Hiếu chính là mảnh ghép hoàn hảo cho lĩnh vực đào tạo AI vốn mới phát triển gần đây và liên tục có sự thay đổi.",
       author: "Tram Le",
       role: "Founder & CEO tại Edtronaut",
       avatar: "/avatar-3.png",
@@ -292,7 +292,7 @@ export default function Home() {
           >
             <Image
               src="/my-avatar.png"
-              alt="Triều Nguyễn - AI Researcher & Blockchain Developer"
+              alt="Hiếu Nguyễn - Professional Investor & AI Entrepreneur"
               fill
               className="object-cover"
               priority
@@ -307,7 +307,7 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.4 }}
           >
             <TextReveal
-              text="Triều Nguyễn"
+              text="Hiếu Nguyễn"
               className="text-5xl md:text-7xl font-bold tracking-tight mb-4 bg-clip-text text-transparent bg-gradient-to-r from-teal-400 via-cyan-300 to-emerald-500"
             />
           </motion.div>
@@ -389,7 +389,7 @@ export default function Home() {
               className="text-gray-400 hover:text-teal-400 transition-colors duration-300 transform hover:scale-110"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="TikTok của Triều Nguyễn"
+              aria-label="TikTok của Hiếu Nguyễn"
             >
               <Tiktok className="h-6 w-6" />
               <span className="sr-only">TikTok</span>
@@ -399,17 +399,17 @@ export default function Home() {
               className="text-gray-400 hover:text-teal-400 transition-colors duration-300 transform hover:scale-110"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Facebook của Triều Nguyễn"
+              aria-label="Facebook của Hiếu Nguyễn"
             >
               <Facebook className="h-6 w-6" />
               <span className="sr-only">Facebook</span>
             </Link>
             <Link
-              href="https://www.linkedin.com/in/trieu-nguyen-1478ab155/"
+              href="https://linkedin.com/in/hieunguyen"
               className="text-gray-400 hover:text-teal-400 transition-colors duration-300 transform hover:scale-110"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="LinkedIn của Triều Nguyễn"
+              aria-label="LinkedIn của Hiếu Nguyễn"
             >
               <Linkedin className="h-6 w-6" />
               <span className="sr-only">LinkedIn</span>
@@ -419,7 +419,7 @@ export default function Home() {
               className="text-gray-400 hover:text-teal-400 transition-colors duration-300 transform hover:scale-110"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Twitter của Triều Nguyễn"
+              aria-label="Twitter của Hiếu Nguyễn"
             >
               <Twitter className="h-6 w-6" />
               <span className="sr-only">Twitter</span>
@@ -470,19 +470,19 @@ export default function Home() {
               />
               <div className="space-y-4 text-gray-300">
                 <p className="leading-relaxed">
-                  Triều Nguyễn, sinh năm 1996, là người đam mê công nghệ đến từ Thành phố Hồ Chí Minh. May mắn được tham
-                  gia vào các dự án như AI Insight, My Meta Farm và AIID, Triều luôn cố gắng học hỏi và chia sẻ kiến
+                  Hiếu Nguyễn, sinh năm 1996, là người đam mê công nghệ đến từ Thành phố Hồ Chí Minh. May mắn được tham
+                  gia vào các dự án như AI Insight, My Meta Farm và AIID, Hiếu luôn cố gắng học hỏi và chia sẻ kiến
                   thức với cộng đồng về các lĩnh vực AI và blockchain.
                 </p>
                 <p className="leading-relaxed">
-                  Với niềm yêu thích công nghệ mới và sáng tạo nội dung, Triều đã cùng cộng đồng xây dựng AI Insight
+                  Với niềm yêu thích công nghệ mới và sáng tạo nội dung, Hiếu đã cùng cộng đồng xây dựng AI Insight
                   thành nơi chia sẻ kiến thức công nghệ, may mắn nhận được sự ủng hộ từ nhiều người theo dõi trên
-                  TikTok. Triều luôn cố gắng chia sẻ những gì đã học được về công nghệ và cách ứng dụng vào cuộc sống
+                  TikTok. Hiếu luôn cố gắng chia sẻ những gì đã học được về công nghệ và cách ứng dụng vào cuộc sống
                   hàng ngày.
                 </p>
                 <p className="leading-relaxed">
-                  Cùng với đội ngũ, Triều đã tham gia phát triển My Meta Farm và có cơ hội được giới thiệu tại một số sự
-                  kiện. Qua AIID, Triều và các cộng sự mong muốn góp phần nhỏ vào việc hỗ trợ các bạn trẻ phát triển kỹ
+                  Cùng với đội ngũ, Hiếu đã tham gia phát triển My Meta Farm và có cơ hội được giới thiệu tại một số sự
+                  kiện. Qua AIID, Hiếu và các cộng sự mong muốn góp phần nhỏ vào việc hỗ trợ các bạn trẻ phát triển kỹ
                   năng số, với hy vọng chuẩn bị tốt hơn cho tương lai công nghệ.
                 </p>
               </div>
@@ -505,7 +505,7 @@ export default function Home() {
                 <div className="relative w-full aspect-video rounded-xl overflow-hidden">
                   <Image
                     src="/tech-entrepreneur-presentation.png"
-                    alt="Triều Nguyễn diễn thuyết tại sự kiện công nghệ"
+                    alt="Hiếu Nguyễn diễn thuyết tại sự kiện công nghệ"
                     width={1280}
                     height={720}
                     className="object-cover"
@@ -868,7 +868,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="py-6 text-center text-gray-500 border-t border-gray-800">
-        © 2024 Triều Nguyễn. All rights reserved.
+        © 2024 Hiếu Nguyễn. All rights reserved.
       </footer>
     </div>
   )

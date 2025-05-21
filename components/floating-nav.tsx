@@ -209,7 +209,7 @@ export function FloatingNav() {
                     </svg>
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/trieu-nguyen-1478ab155/"
+                    href="https://linkedin.com/in/hieunguyen"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-10 h-10 rounded-full bg-gray-800/50 flex items-center justify-center text-gray-400 hover:text-teal-400 transition-colors"
