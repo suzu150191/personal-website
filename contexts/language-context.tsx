@@ -41,8 +41,8 @@ const translations: Translations = {
 
   // Hero section
   "hero.bio": {
-    vi: "Người đam mê công nghệ với mong muốn đóng góp cho cộng đồng qua AI Insight và My Meta Farm. Luôn nỗ lực học hỏi và chia sẻ kiến thức về AI, blockchain và metaverse.",
-    en: "A technology enthusiast with a desire to contribute to the community through AI Insight and My Meta Farm. Always striving to learn and share knowledge about AI, blockchain, and metaverse.",
+    vi: "Tạo dựng giá trị tại giao điểm giữa tài chính, trí tuệ nhân tạo và Web3.",
+    en: "Crafting value at the intersection of finance, artificial intelligence, and Web3."
   },
   "hero.contactNow": {
     vi: "Liên hệ ngay",

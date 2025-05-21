@@ -12,12 +12,12 @@ import { Suspense } from "react"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://trieu.ai.vn"),
-  title: "Triều Nguyễn | AI Researcher & Blockchain Developer | trieu.ai.vn",
+  metadataBase: new URL("https://hieu.ai.vn"),
+  title: "Hiếu Nguyễn | AI Researcher & Blockchain Developer | hieu.ai.vn",
   description:
-    "Triều Nguyễn - Chuyên gia AI, Blockchain và Metaverse. Người sáng lập AI Insight và đồng sáng lập My Meta Farm. Chia sẻ kiến thức và nghiên cứu về công nghệ tiên tiến.",
+    "Hiếu Nguyễn - Nhà đầu tư chuyên nghiệp và doanh nhân AI. Xây dựng nền tảng giao dịch AI và giao thức DeFi thế hệ mới.",
   keywords: [
-    "Triều Nguyễn",
+    "Hiếu Nguyễn",
     "AI Researcher",
     "Blockchain Developer",
     "AI Insight",
@@ -32,8 +32,8 @@ export const metadata: Metadata = {
     "NFT",
     "Digital Skills",
   ],
-  authors: [{ name: "Triều Nguyễn" }],
-  creator: "Triều Nguyễn",
+  authors: [{ name: "Hiếu Nguyễn" }],
+  creator: "Hiếu Nguyễn",
   publisher: "AI Insight",
   formatDetection: {
     email: false,
@@ -41,16 +41,16 @@ export const metadata: Metadata = {
     telephone: false,
   },
   openGraph: {
-    title: "Triều Nguyễn | AI Researcher & Blockchain Developer",
-    description: "Chuyên gia AI, Blockchain và Metaverse. Người sáng lập AI Insight và đồng sáng lập My Meta Farm.",
-    url: "https://trieu.ai.vn",
-    siteName: "Triều Nguyễn",
+    title: "Hiếu Nguyễn | AI Researcher & Blockchain Developer",
+    description: "Nhà đầu tư chuyên nghiệp và doanh nhân AI. Xây dựng nền tảng giao dịch AI và giao thức DeFi.",
+    url: "https://hieu.ai.vn",
+    siteName: "Hiếu Nguyễn",
     images: [
       {
         url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/my-avatar-Ovei4qlNIl2JZWvhyQEPATy2y63enO.png", // Cập nhật URL hình ảnh OG
         width: 1200,
         height: 630,
-        alt: "Triều Nguyễn - AI Researcher & Blockchain Developer",
+        alt: "Hiếu Nguyễn - Professional Investor & AI Entrepreneur",
       },
     ],
     locale: "vi_VN",
@@ -58,8 +58,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Triều Nguyễn | AI Researcher & Blockchain Developer",
-    description: "Chuyên gia AI, Blockchain và Metaverse. Người sáng lập AI Insight và đồng sáng lập My Meta Farm.",
+    title: "Hiếu Nguyễn | AI Researcher & Blockchain Developer",
+    description: "Nhà đầu tư chuyên nghiệp và doanh nhân AI. Xây dựng nền tảng giao dịch AI và giao thức DeFi.",
     creator: "@LupinV_Research",
     images: ["https://hebbkx1anhila5yf.public.blob.vercel-storage.com/my-avatar-Ovei4qlNIl2JZWvhyQEPATy2y63enO.png"], // Cập nhật URL hình ảnh Twitter
   },
@@ -79,9 +79,9 @@ export const metadata: Metadata = {
     shortcut: "/favicon.ico",
     apple: "/apple-touch-icon.png",
   },
-  manifest: "https://trieu.ai.vn/site.webmanifest",
+  manifest: "https://hieu.ai.vn/site.webmanifest",
   alternates: {
-    canonical: "https://trieu.ai.vn",
+    canonical: "https://hieu.ai.vn",
   },
     generator: 'v0.dev'
 }
@@ -95,7 +95,7 @@ export default function RootLayout({
     <html lang="vi" suppressHydrationWarning>
       <head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="canonical" href="https://trieu.ai.vn" />
+        <link rel="canonical" href="https://hieu.ai.vn" />
       </head>
       <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
